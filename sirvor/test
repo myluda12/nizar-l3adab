@@ -1,0 +1,22 @@
+Content-type:text/html
+
+
+<html>
+<head>
+<title>Hello - Second CGI Program</title>
+</head>
+<body>
+<h2>Hello fibonachi  </h2>
+environ({'GATEWAY_INTERFACE': 'CGI/1.1', 'SERVER_SOFTWARE': 'webserv', 'SERVER_PROTOCOL': 'HTTP/1.1', 'SERVER_PORT': '7213', 'REQUEST_METHOD': '', 'PATH_INFO': '', 'QUERY_STRING': 'empty=1&name=5', 'SCRIPT_NAME': 'script.py', 'CONTENT_TYPE': '', 'CONTENT_LENGTH': '', 'HTTP_USER_AGENT': '', '__CF_USER_TEXT_ENCODING': '0x52C:0x0:0x0', 'LC_CTYPE': 'UTF-8'})
+</body>
+</html>
+UTF-8'})
+</body>
+</html>
+html>
+XPC_SERVICE_NAME': '0', 'USER': 'ayajrhou', 'XPC_FLAGS': '0x0', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'undefined', 'SHLVL': '1', 'PWD': '/Users/ayajrhou/Desktop/sirvor', 'OLDPWD': '/Users/ayajrhou/Desktop/sirvor/cgi-test', 'TERM_PROGRAM': 'vscode', 'TERM_PROGRAM_VERSION': '1.66.2', 'LANG': 'en_US.UTF-8', 'COLORTERM': 'truecolor', 'VSCODE_GIT_IPC_HANDLE': '/var/folders/zz/zyxvpxvq6csfxvn_n000055h00019c/T/vscode-git-6dac9d39fc.sock', 'VSCODE_GIT_ASKPASS_NODE': '/Applications/Visual Studio Code.app/Contents/MacOS/Electron', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '--ms-enable-electron-run-as-node', 'VSCODE_GIT_ASKPASS_MAIN': '/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js', 'GIT_ASKPASS': '/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh', 'TERM': 'xterm-256color', '_': '/Users/ayajrhou/Desktop/sirvor/./a.out', 'GATEWAY_INTERFACE': 'CGI/1.1', 'SERVER_SOFTWARE': 'webserv', 'SERVER_PROTOCOL': 'HTTP/1.1', 'SERVER_PORT': '-286180224', 'REQUEST_METHOD': '', 'PATH_INFO': '', 'QUERY_STRING': 'empty=1&name=5', 'SCRIPT_NAME': 'script.py', 'CONTENT_TYPE': '', 'CONTENT_LENGTH': '', 'HTTP_USER_AGENT': ''})
+</body>
+</html>
+: '', 'HTTP_USER_AGENT': ''})
+</body>
+</html>
